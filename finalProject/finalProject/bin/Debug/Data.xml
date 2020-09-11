@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AppointList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Appointment>
+    <AppTime>12:00</AppTime>
+    <CustData xsi:type="Ladies">
+      <CustName>prit</CustName>
+      <ContNum>8989898989</ContNum>
+      <HomeTreat>Home treatment is Required</HomeTreat>
+      <CustType>Children</CustType>
+      <Year>23</Year>
+      <IsHairColour>false</IsHairColour>
+    </CustData>
+  </Appointment>
+  <Appointment>
+    <AppTime>9:00</AppTime>
+    <CustData xsi:type="Ladies">
+      <CustName>Darshan</CustName>
+      <ContNum>7878787878</ContNum>
+      <HomeTreat>Home treatment is Required</HomeTreat>
+      <CustType>Children</CustType>
+      <Year>16</Year>
+      <IsHairColour>true</IsHairColour>
+    </CustData>
+  </Appointment>
+  <Appointment>
+    <AppTime>16:00</AppTime>
+    <CustData xsi:type="Ladies">
+      <CustName>harsh</CustName>
+      <ContNum>1212121212</ContNum>
+      <HomeTreat>Home treatment is Required</HomeTreat>
+      <CustType>Gents</CustType>
+      <Year>90</Year>
+      <IsHairColour>false</IsHairColour>
+    </CustData>
+  </Appointment>
+</AppointList>

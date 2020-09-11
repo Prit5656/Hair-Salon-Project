@@ -1,0 +1,12 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2019-11-06 15:28:37
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-11-06 15:28:37 ::1 GET /CustomerSurvey.aspx - 52003 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/78.0.3904.87+Safari/537.36 - 200 0 0 11541
+2019-11-06 15:28:37 ::1 GET /Content/bootstrap.css - 52003 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/78.0.3904.87+Safari/537.36 http://localhost:52003/CustomerSurvey.aspx 200 0 0 8
+2019-11-06 15:28:37 ::1 GET /Scripts/jquery-3.0.0.js - 52003 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/78.0.3904.87+Safari/537.36 http://localhost:52003/CustomerSurvey.aspx 200 0 0 8
+2019-11-06 15:28:37 ::1 GET /Content/StyleSheet1.css - 52003 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/78.0.3904.87+Safari/537.36 http://localhost:52003/CustomerSurvey.aspx 404 0 2 8
+2019-11-06 15:28:37 ::1 GET /WebResource.axd d=x2nkrMJGXkMELz33nwnakLLpwaz7Y4tEInELmldaEwfKfuKzffFkL9JIuT8epgCxHLzGKuXsz-fXm9d_IQElVaR_DXr8SogppQR98CttYFk1&t=636995195080000000 52003 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/78.0.3904.87+Safari/537.36 http://localhost:52003/CustomerSurvey.aspx 200 0 0 26
+2019-11-06 15:28:37 ::1 GET /WebResource.axd d=pynGkmcFUV13He1Qd6_TZD1JyJ5K-hNelbfKjmCA6ENQRT1brVbdqD1dXCHsHPwGGw8Q3uhxYr-VtX1XYLqBmA2&t=636995195080000000 52003 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/78.0.3904.87+Safari/537.36 http://localhost:52003/CustomerSurvey.aspx 200 0 0 27
+2019-11-06 15:28:37 ::1 GET /Content/StyleSheet1.css - 52003 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/78.0.3904.87+Safari/537.36 http://localhost:52003/CustomerSurvey.aspx 404 0 2 2
+2019-11-06 15:28:37 ::1 GET /favicon.ico - 52003 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/78.0.3904.87+Safari/537.36 http://localhost:52003/CustomerSurvey.aspx 404 0 2 2
